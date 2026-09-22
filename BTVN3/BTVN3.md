@@ -6,7 +6,9 @@
 
 3. Điện thoại Tài xế phản hồi Đồng ý/Từ chối về cho App Điều Phối (đây là một thông điệp độc lập, không bắt buộc phải là Return, vì yêu cầu gửi đi ở bước trước là Async — Tài xế không bị "giữ chờ" nên phản hồi có thể đến sau, tại một thời điểm bất kỳ)
 
-4. alt
+4.
+alt
+
 [Tài xế đồng ý] App Điều Phối khởi tạo một bản ghi Chuyến Đi (Trip) mới — lifeline của Trip bắt đầu đúng tại thời điểm này, chỉ xảy ra nếu tài xế Đồng ý
 
 [Tài xế không đồng ý] App Điều Phối không khởi tạo bản ghi Chuyến Đi (Trip)
